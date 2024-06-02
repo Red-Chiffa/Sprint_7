@@ -1,0 +1,5 @@
+BASE_URL = 'http://qa-scooter.praktikum-services.ru'
+CREATE_COURIER_URL = BASE_URL + '/api/v1/courier'
+LOGIN_COURIER_URL = BASE_URL + '/api/v1/courier/login'
+DELETE_COURIER_URL = BASE_URL + '/api/v1/courier'
+ORDER = BASE_URL + '/api/v1/orders'
